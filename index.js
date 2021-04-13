@@ -277,6 +277,7 @@ function grade(grade){
 
   return (outString + gradeString);
 }
+let updateThis = true;
   
   
 
